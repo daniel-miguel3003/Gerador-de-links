@@ -124,6 +124,6 @@ footer a {
 @media (max-width: 600px) {
     .container {
         width: 80vw;
-        height: 300vh;
+        height: 100vh;
     }
 }
