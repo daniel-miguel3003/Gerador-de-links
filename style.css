@@ -120,3 +120,10 @@ footer:hover {
 footer a {
     color: #00082f;
 }
+
+@media (max-width: 600px) {
+    .container {
+        width: 80vw;
+        height: 60vh;
+    }
+}
